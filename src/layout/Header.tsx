@@ -8,7 +8,7 @@ const Header = ()=>{
         <>
          <nav className="navbar navbar-expand-lg navbar-light">
             <div className="container-fluid d-flex justify-content-between">
-                <h3 className="navbar-brand mb-0" style={{ padding: '10px'}}>
+                <h3 className="navbar-brand mb-0" style={{ padding: '10px', color: '#4B0082', cursor:'pointer'}}>
                     <strong>Ask it</strong>
                     </h3>
                     <div className="collapse navbar-collapse d-flex justify-content-end">
